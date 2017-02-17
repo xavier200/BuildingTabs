@@ -1,0 +1,25 @@
+
+a:link {
+    color: orange; border-style: solid;  text-decoration: none;
+}
+
+
+a:visited {
+
+    color: green;
+}
+
+
+a:hover {
+    color: red;
+}
+
+
+a:active {
+    color: blue;
+}
+
+body{
+    background-color:purple;
+
+}
